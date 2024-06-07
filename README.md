@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Yocanantham/Practice_order-summary.git)
-- Live Site URL: (https://yocanantham.github.io/Practice_results_summary_component/)
+- Live Site URL: (https://yocanantham.github.io/Practice_order-summary/)
 
 ## My process
 
